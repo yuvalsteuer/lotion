@@ -1,2 +1,2 @@
 # lotion
-Lotion: web application server that serves notion pages as early 2k style static html.
+Lotion: blogging engine serves notion pages as simple static html.
