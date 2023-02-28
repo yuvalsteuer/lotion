@@ -1,2 +1,2 @@
 # lotion
-Lotion: blogging engine that uses notion pages as the backend CMS.
+Lotion: blogging engine that uses notion as CMS.
