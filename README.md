@@ -1,2 +1,2 @@
 # lotion
-Lotion: blogging engine serves notion pages as simple static html.
+Lotion: blogging engine that uses notion pages as the backend CMS.
